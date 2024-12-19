@@ -10,4 +10,4 @@ Make a function that gets the minimum value of a list of numbers
 5. Then return min val to main function and print it.
 
 ## Output:
-![Output Screenshot](output.png)
+![Output Screenshot](Output.png)
