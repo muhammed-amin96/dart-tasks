@@ -5,7 +5,7 @@ void main() {
 }
 
 int getMinimumVal(List<int> numbers) {
-  int minimumVal = 0;
+  int minimumVal = numbers[0];
   for (int number in numbers) {
     if (number <= minimumVal) {
       minimumVal = number;
